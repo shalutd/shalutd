@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=shalutd&style=flat-square)
+
+[Shalu](https://www.linkedin.com/in/shalutd/) is an Android Engineer and currently working at [Litmus7](https://litmus7.com/)
+
 <!--
 **shalutd/shalutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
