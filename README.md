@@ -1,12 +1,15 @@
-### Tell me about yourself?
-Name <h1>Shalu T D</h1>
-
 ![](https://komarev.com/ghpvc/?username=shalutd&style=flat-square)
+## Shalu T D
 
-I am an Android dev @[Litmus7](https://litmus7.com/)
+👨‍💻 Android dev @[Litmus7](https://litmus7.com/)
 
-My Stack overflow Reputation : 
-<a href="https://stackoverflow.com/users/3269958/shalu-t-d"><img src="https://stackoverflow.com/users/flair/3269958.png" width="208" height="58" alt="profile for Shalu T D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Shalu T D at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+👯 5K+ Connections @[LinkedIn](https://www.linkedin.com/in/shalutd/)
+
+😊 3K+ Reputation @[StackOverflow](https://stackoverflow.com/users/3269958/shalu-t-d)
+
+✍️ Blogger @[Medium](https://shalutd007.medium.com/)
+
+
 
 <!--
 **shalutd/shalutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
