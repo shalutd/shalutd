@@ -7,7 +7,7 @@
 
 ✍️ Blogger @[Medium](https://shalutd007.medium.com/)
 
-👋 2.5K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
+👋 3.4K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
 
 
 <!--
