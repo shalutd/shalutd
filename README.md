@@ -5,8 +5,6 @@
 
 👯 5K+ Connections @[LinkedIn](https://www.linkedin.com/in/shalutd/)
 
-😊 3.3K+ Reputation @[StackOverflow](https://stackoverflow.com/users/3269958/shalu-t-d)
-
 ✍️ Blogger @[Medium](https://shalutd007.medium.com/)
 
 👋 2.5K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
