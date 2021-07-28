@@ -9,6 +9,8 @@
 
 👋 3.6K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
 
+❤️ 2.5K+ Followers @[Instagram](https://www.instagram.com/shalu_td/)
+
 
 <!--
 **shalutd/shalutd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
