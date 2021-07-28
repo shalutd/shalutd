@@ -3,9 +3,11 @@
 
 👨‍💻 Android dev @[Litmus7](https://litmus7.com/)
 
-👯 5K+ Connections @[LinkedIn](https://www.linkedin.com/in/shalutd/)
-
 ✍️ Blogger @[Medium](https://shalutd007.medium.com/)
+
+😄 3K+ Reputation @[StackOverFlow](https://stackoverflow.com/users/3269958/shalu-t-d)
+
+👯 5K+ Connections @[LinkedIn](https://www.linkedin.com/in/shalutd/)
 
 👋 3.6K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
 
