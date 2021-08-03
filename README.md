@@ -3,15 +3,15 @@
 
 👨‍💻 Android dev @[Litmus7](https://litmus7.com/)
 
-✍️ Blogger @[Medium](https://shalutd007.medium.com/)
+✍️ Blogger @[Medium](https://shalutd.medium.com/)
 
 😄 3K+ Reputation @[StackOverFlow](https://stackoverflow.com/users/3269958/shalu-t-d)
 
 👯 5K+ Connections @[LinkedIn](https://www.linkedin.com/in/shalutd/)
 
-👋 3.6K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
+👋 3.8K+ Followers @[Clubhouse](https://www.clubhouse.com/@shalutd)
 
-❤️ 2.5K+ Followers @[Instagram](https://www.instagram.com/shalu_td/)
+❤️ 2.8K+ Followers @[Instagram](https://www.instagram.com/shalu_td/)
 
 
 <!--
