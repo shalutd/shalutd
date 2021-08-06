@@ -2,7 +2,7 @@
 
 ## Hello, folks! 👋 
 
-I am an 👨‍💻 Adroid dev from India. I have a passion for learning and sharing my knowledge with others. Apart from my work, I am a blogger at medium, vocal media etc.
+I am an Adroid dev from India. I have a passion for learning and sharing my knowledge with others. Apart from my work, I am a blogger at medium, vocal media etc.
 
 Read my articles at [Medium](https://shalutd.medium.com/) [Vocal](https://vocal.media/authors/shalu-td/) 
 
