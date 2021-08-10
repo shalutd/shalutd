@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=shalutd&style=flat-square)
 
-## Hello, folks! 👋 
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
 I am an Android dev from India. I have a passion for learning and sharing my knowledge with others. Apart from my work, I am a blogger at medium, vocal media etc.
 
