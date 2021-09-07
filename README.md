@@ -2,7 +2,7 @@
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
-I am an Android dev from India. I have a passion for learning and sharing my knowledge with others. Apart from my work, I am a blogger at medium, vocal media etc.
+I am an Android dev from India. I have a passion for learning and sharing my knowledge with others. Apart from my work, I am a blogger at medium, vocal media and hashnode etc.
 
 Read my articles at [Medium](https://shalutd.medium.com/) [Vocal](https://vocal.media/authors/shalu-td/) 
 
